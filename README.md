@@ -1,9 +1,9 @@
 # Welcome
-This repository holds the code for CodeUp Manchester, part of CodeUp UK.
+This repository holds the code for CodeUp Salford, part of CodeUp UK.
 
 # CodeUp
 CodeUp is the adult version of Code Club, providing free and friendly adult coding tuition. 
-For more information please see [the main web site](http://codeup.org.uk/).
+For more information please see [the main web site](http://codeup.org.uk/) or [our website](https://codeupsalford.github.io) for information about the Salford Meetup.
 
 # Our Event
 We run the event monthly and manage it all through 
